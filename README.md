@@ -1,4 +1,5 @@
-# glycan_dictionary v1.0
-README for v1.0 of Glycan Dictionary
+# Gycan Dictionary
+
+Current Version: 1.0
 
 Last updated December 9th, 2021
