@@ -1,4 +1,4 @@
-# Gycan Dictionary
+# Glycan Dictionary
 
 Current Version: 1.0
 
