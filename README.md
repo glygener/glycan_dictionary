@@ -1,6 +1,6 @@
 # Glycan Dictionary
 
-## Current Version: 2.1
+## Current Version: 2.0.1
 -----------------------
 
 Data last updated December 9th, 2021
